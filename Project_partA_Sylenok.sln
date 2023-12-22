@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_partA_Sylenok", "Project_partA_Sylenok\Project_partA_Sylenok.csproj", "{1A18CCCF-C2E6-443E-8FCC-15958523C4A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject_A", "TestProject_A\TestProject_A.csproj", "{EAAB922E-E6DD-4431-9D5A-F1C8B277B873}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1A18CCCF-C2E6-443E-8FCC-15958523C4A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A18CCCF-C2E6-443E-8FCC-15958523C4A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A18CCCF-C2E6-443E-8FCC-15958523C4A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAAB922E-E6DD-4431-9D5A-F1C8B277B873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAAB922E-E6DD-4431-9D5A-F1C8B277B873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAAB922E-E6DD-4431-9D5A-F1C8B277B873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAAB922E-E6DD-4431-9D5A-F1C8B277B873}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
