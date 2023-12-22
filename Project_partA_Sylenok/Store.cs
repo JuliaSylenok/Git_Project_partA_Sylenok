@@ -9,7 +9,7 @@ namespace Project_partA_Sylenok
 {
     public class Store
     {
-        public class Store 
+        public class Store : IInventoryManager
         {
             public string Name { get; set; }
             public string Address { get; set; }
